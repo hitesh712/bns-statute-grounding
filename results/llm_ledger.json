@@ -1,0 +1,35 @@
+{
+  "spent_usd": 1.046075,
+  "entries": [
+    {
+      "usd": 0.006876,
+      "note": "pilot 9 sync calls",
+      "time": "2026-10-18 13:39:08"
+    },
+    {
+      "usd": 0.155388,
+      "note": "batch msgbatch_016WXexy7DmcW4B1Dgm2D917 (245 results)",
+      "time": "2026-10-18 13:45:20"
+    },
+    {
+      "usd": 0.058232,
+      "note": "verifiability pilot 9 calls",
+      "time": "2026-10-18 13:53:57"
+    },
+    {
+      "usd": 0.550382,
+      "note": "verifiability batch msgbatch_01PrBvz6cGDqK35Jn8HEVact",
+      "time": "2026-10-18 14:04:40"
+    },
+    {
+      "usd": 0.008887,
+      "note": "haiku pilot 6 calls",
+      "time": "2026-10-18 14:47:13"
+    },
+    {
+      "usd": 0.26631,
+      "note": "haiku batch msgbatch_01D1MVRSnPyDNzYTo8JJSr41",
+      "time": "2026-10-18 14:50:40"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+sections with a usable title : 350/350
+DEFINES edges                : 39
+sections carrying an edge    : 39
+PUNISHED_BY edges            : 47
+
+DEFINES per offence:
+  cheating               2  BNS_318, BNS_319
+  extortion              1  BNS_308
+  forgery               10  BNS_179, BNS_180, BNS_181, BNS_335, BNS_336, BNS_337, BNS_338, BNS_339, BNS_340, BNS_341
+  murder                 9  BNS_92, BNS_100, BNS_101, BNS_102, BNS_103, BNS_105, BNS_109, BNS_110, BNS_140
+  rape                   4  BNS_63, BNS_64, BNS_65, BNS_70
+  robbery                4  BNS_309, BNS_310, BNS_311, BNS_312
+  sexual harassment      1  BNS_75
+  stalking               1  BNS_78
+  theft                  7  BNS_134, BNS_303, BNS_304, BNS_305, BNS_306, BNS_307, BNS_328

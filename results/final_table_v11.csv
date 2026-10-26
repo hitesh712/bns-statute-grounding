@@ -1,0 +1,29 @@
+system,k,accuracy,p_vs_same_encoder_trivial,trivial_only,system_only
+MiniLM-L6 trivial (no graph),,61.48,,,
+MiniLM-L6 + graph,1,38.52,6.53e-05,45.0,14.0
+MiniLM-L6 + graph,3,55.56,0.302,27.0,19.0
+MiniLM-L6 + graph,5,63.7,0.761,20.0,23.0
+MiniLM-L6 + graph,10,77.04,0.000753,8.0,29.0
+MiniLM-L6 + graph,20,84.44,1.23e-07,3.0,34.0
+mpnet-base trivial (no graph),,68.89,,,
+mpnet-base + graph,1,41.48,4.48e-06,51.0,14.0
+mpnet-base + graph,3,64.44,0.48,28.0,22.0
+mpnet-base + graph,5,80.0,0.0275,13.0,28.0
+mpnet-base + graph,10,91.11,6.04e-07,4.0,34.0
+mpnet-base + graph,20,97.78,3.82e-11,1.0,40.0
+BGE-base trivial (no graph),,77.04,,,
+BGE-base + graph,1,59.26,0.000272,33.0,9.0
+BGE-base + graph,3,77.78,1,14.0,15.0
+BGE-base + graph,5,85.19,0.0347,6.0,17.0
+BGE-base + graph,10,90.37,0.000912,5.0,23.0
+BGE-base + graph,20,95.56,1.62e-06,2.0,27.0
+BM25 + graph,1,41.48,2.43e-10,55.0,7.0
+BM25 + graph,3,57.78,0.00041,39.0,13.0
+BM25 + graph,5,63.7,0.00956,31.0,13.0
+BM25 + graph,10,77.78,1,17.0,18.0
+BM25 + graph,20,84.44,0.0987,10.0,20.0
+hybrid RRF + graph,1,51.85,3.1e-07,40.0,6.0
+hybrid RRF + graph,3,76.3,1,16.0,15.0
+hybrid RRF + graph,5,85.93,0.029,7.0,19.0
+hybrid RRF + graph,10,94.07,1.55e-06,1.0,24.0
+hybrid RRF + graph,20,99.26,1.86e-09,0.0,30.0

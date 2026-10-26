@@ -1,0 +1,34 @@
+encoder,corpus,system,k,accuracy,median_rank_correct
+MiniLM-L6  (original),-,trivial (no graph),-,60.74,
+MiniLM-L6  (original),full body,graph,1,37.04,3.0
+MiniLM-L6  (original),full body,graph,3,52.59,3.0
+MiniLM-L6  (original),full body,graph,5,61.48,3.0
+MiniLM-L6  (original),full body,graph,10,77.04,3.0
+MiniLM-L6  (original),full body,graph,20,84.44,3.0
+MiniLM-L6  (original),first 1200,graph,1,37.04,3.0
+MiniLM-L6  (original),first 1200,graph,3,52.59,3.0
+MiniLM-L6  (original),first 1200,graph,5,62.22,3.0
+MiniLM-L6  (original),first 1200,graph,10,77.04,3.0
+MiniLM-L6  (original),first 1200,graph,20,83.7,3.0
+mpnet-base,-,trivial (no graph),-,66.67,
+mpnet-base,full body,graph,1,40.0,2.0
+mpnet-base,full body,graph,3,62.22,2.0
+mpnet-base,full body,graph,5,75.56,2.0
+mpnet-base,full body,graph,10,88.89,2.0
+mpnet-base,full body,graph,20,97.04,2.0
+mpnet-base,first 1200,graph,1,40.0,2.0
+mpnet-base,first 1200,graph,3,61.48,2.0
+mpnet-base,first 1200,graph,5,73.33,2.0
+mpnet-base,first 1200,graph,10,85.93,2.0
+mpnet-base,first 1200,graph,20,94.81,2.0
+BGE-base,-,trivial (no graph),-,73.33,
+BGE-base,full body,graph,1,59.26,1.0
+BGE-base,full body,graph,3,74.81,1.0
+BGE-base,full body,graph,5,83.7,1.0
+BGE-base,full body,graph,10,88.89,1.0
+BGE-base,full body,graph,20,95.56,1.0
+BGE-base,first 1200,graph,1,58.52,1.0
+BGE-base,first 1200,graph,3,74.07,1.0
+BGE-base,first 1200,graph,5,83.7,1.0
+BGE-base,first 1200,graph,10,89.63,1.0
+BGE-base,first 1200,graph,20,95.56,1.0

@@ -1,0 +1,17 @@
+system,k,accuracy,p_vs_trivial,trivial_only,sys_only
+trivial (no graph),,73.33,,,
+BM25 + graph,1,40.74,5.21e-09,52.0,8.0
+BM25 + graph,3,57.04,0.00384,38.0,16.0
+BM25 + graph,5,62.22,0.0444,32.0,17.0
+BM25 + graph,10,76.3,0.636,18.0,22.0
+BM25 + graph,20,82.96,0.041,11.0,24.0
+dense (BGE) + graph,1,59.26,0.00338,29.0,10.0
+dense (BGE) + graph,3,74.81,0.851,13.0,15.0
+dense (BGE) + graph,5,83.7,0.00936,6.0,20.0
+dense (BGE) + graph,10,88.89,0.000192,5.0,26.0
+dense (BGE) + graph,20,95.56,6.94e-08,2.0,32.0
+hybrid RRF + graph,1,51.11,5.3e-06,37.0,7.0
+hybrid RRF + graph,3,72.59,1,17.0,16.0
+hybrid RRF + graph,5,83.7,0.0161,8.0,22.0
+hybrid RRF + graph,10,92.59,2.16e-07,1.0,27.0
+hybrid RRF + graph,20,99.26,5.82e-11,0.0,35.0

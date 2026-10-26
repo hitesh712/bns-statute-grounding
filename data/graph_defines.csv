@@ -1,0 +1,40 @@
+section_id,offence,title
+BNS_63,rape,Rape
+BNS_64,rape,Punishment for rape
+BNS_65,rape,Punishment for rape in certain cases
+BNS_70,rape,Gang rape
+BNS_75,sexual harassment,Sexual harassment and punishment for sexual harassment
+BNS_78,stalking,Stalking
+BNS_92,murder,Causing death of quick unborn child by act amounting to culpable homicide
+BNS_100,murder,Culpable homicide
+BNS_101,murder,Murder
+BNS_102,murder,Culpable homicide by causing death of person other than person whose death was intended
+BNS_103,murder,Punishment for murder
+BNS_105,murder,Punishment for culpable homicide not amounting to murder
+BNS_109,murder,Attempt to murder
+BNS_110,murder,Attempt to commit culpable homicide
+BNS_134,theft,Assault or criminal force in attempt to commit theft of property carried by a person
+BNS_140,murder,Kidnapping or abducting in order to murder or for ransom etc
+BNS_179,forgery,"Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank notes"
+BNS_180,forgery,"Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes"
+BNS_181,forgery,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency notes or bank-notes"
+BNS_303,theft,Theft
+BNS_304,theft,Snatching
+BNS_305,theft,"Theft in a dwelling house, or means of transportation or place of worship, etc"
+BNS_306,theft,Theft by clerk or servant of property in possession of master
+BNS_307,theft,"Theft after preparation made for causing death, hurt or restraint in order to the committing of theft"
+BNS_308,extortion,Extortion
+BNS_309,robbery,Robbery
+BNS_310,robbery,Dacoity
+BNS_311,robbery,"Robbery, or dacoity, with attempt to cause death or grievous hurt"
+BNS_312,robbery,Attempt to commit robbery or dacoity when armed with deadly weapon
+BNS_318,cheating,Cheating
+BNS_319,cheating,Cheating by personation
+BNS_328,theft,"Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc"
+BNS_335,forgery,Making a false document
+BNS_336,forgery,Forgery
+BNS_337,forgery,"Forgery of record of Court or of public register, etc"
+BNS_338,forgery,"Forgery of valuable security, will, etc"
+BNS_339,forgery,"Having possession of document described in section 335 or 336, knowing it to be forged and intending to use it as genuine"
+BNS_340,forgery,Forged document or electronic record and using it as genuine
+BNS_341,forgery,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 336"

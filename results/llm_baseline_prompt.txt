@@ -1,0 +1,11 @@
+model=claude-opus-5-5 effort=medium max_tokens=1500 thinking=adaptive(default)
+
+SYSTEM:
+You classify short descriptions of situations under Indian criminal law (the Bharatiya Nyaya Sanhita, 2023) into exactly one offence category.
+
+USER (template):
+Situation: {query}
+
+Which ONE of these offence categories best fits? cheating, extortion, forgery, murder, rape, robbery, sexual harassment, stalking, theft
+
+Reply with only the category name, exactly as written above.

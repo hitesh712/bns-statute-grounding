@@ -1,0 +1,279 @@
+section_id,offence,coarse,title
+BNS_2,definitions,,Definitions
+BNS_7,sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple,,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple
+BNS_8,"amount of fine, liability in default of payment of fine",,"Amount of fine, liability in default of payment of fine, etc"
+BNS_10,"person guilty of one of several offences, the judgment stating that it is doubtful of which",,"Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which"
+BNS_13,enhanced punishment for certain offences after previous conviction,,Enhanced punishment for certain offences after previous conviction
+BNS_32,act to which a person compelled by threats,,Act to which a person compelled by threats
+BNS_55,offence punishable with death or imprisonment for life,,Abetment of offence punishable with death or imprisonment for life
+BNS_56,offence punishable with imprisonment,,Abetment of offence punishable with imprisonment
+BNS_57,commission of offence by the public or by more than ten persons,,Abetting commission of offence by the public or by more than ten persons
+BNS_58,concealing design to commit offence punishable with death or imprisonment for life,,Concealing design to commit offence punishable with death or imprisonment for life
+BNS_59,public servant concealing design to commit offence which it is his duty to prevent,,Public servant concealing design to commit offence which it is his duty to prevent
+BNS_60,concealing design to commit offence punishable with imprisonment,,Concealing design to commit offence punishable with imprisonment
+BNS_61,criminal conspiracy,,Criminal conspiracy
+BNS_62,attempting to commit offences punishable with imprisonment for life or other imprisonment,,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment
+BNS_64,rape,rape,Punishment for rape
+BNS_65,rape in certain cases,rape,Punishment for rape in certain cases
+BNS_66,causing death or resulting in persistent vegetative state of victim,,Punishment for causing death or resulting in persistent vegetative state of victim
+BNS_67,sexual intercourse by husband upon his wife during separation or by a person in authority,,Sexual intercourse by husband upon his wife during separation or by a person in authority
+BNS_68,sexual intercourse by a person in authority,,Sexual intercourse by a person in authority
+BNS_69,sexual intercourse by employing deceitful means,,Sexual intercourse by employing deceitful means etc
+BNS_70,gang rape,rape,Gang rape
+BNS_71,repeat offenders,,Punishment for repeat offenders
+BNS_72,disclosure of identity of the victim of certain offences,,"Disclosure of identity of the victim of certain offences, etc"
+BNS_73,nan,,nan
+BNS_74,assault or criminal force to woman with intent to outrage her modesty,,Assault or criminal force to woman with intent to outrage her modesty
+BNS_75,sexual harassment,sexual harassment,Sexual harassment and punishment for sexual harassment
+BNS_76,assault or use of criminal force to woman with intent to disrobe,,Assault or use of criminal force to woman with intent to disrobe
+BNS_77,voyeurism,,Voyeurism
+BNS_78,stalking,stalking,Stalking
+BNS_79,"word, gesture or act intended to insult the modesty of a woman",,"Word, gesture or act intended to insult the modesty of a woman"
+BNS_80,dowry death,,Dowry death
+BNS_81,cohabitation caused by a man deceitfully inducing a belief of lawful marriage,,Cohabitation caused by a man deceitfully inducing a belief of lawful marriage
+BNS_82,marrying again during lifetime of husband or wife,,Marrying again during lifetime of husband or wife
+BNS_83,marriage ceremony fraudulently gone through without lawful marriage,,Marriage ceremony fraudulently gone through without lawful marriage
+BNS_84,enticing or taking away or detaining with criminal intent a married woman,,Enticing or taking away or detaining with criminal intent a married woman
+BNS_85,nan,,nan
+BNS_87,"kidnapping, abducting or inducing woman to compel her marriage",,"Kidnapping, abducting or inducing woman to compel her marriage, etc"
+BNS_88,causing miscarriage,,Causing miscarriage
+BNS_89,nan,,nan
+BNS_90,death caused by act done with intent to cause miscarriage,,Death caused by act done with intent to cause miscarriage
+BNS_91,act done with intent to prevent child being born alive or to cause it to die after birth,,Act done with intent to prevent child being born alive or to cause it to die after birth
+BNS_92,causing death of quick unborn child by act amounting to culpable homicide,murder,Causing death of quick unborn child by act amounting to culpable homicide
+BNS_93,"exposure and abandonment of child under twelve years, by parent or person having care of it",,"Exposure and abandonment of child under twelve years, by parent or person having care of it"
+BNS_94,concealment of birth by secret disposal of dead body,,Concealment of birth by secret disposal of dead body
+BNS_95,"hiring, employing or engaging a child to commit an offence",,"Hiring, employing or engaging a child to commit an offence"
+BNS_96,procuration of child,,Procuration of child
+BNS_97,kidnapping or abducting child under ten years with intent to steal from its person,,Kidnapping or abducting child under ten years with intent to steal from its person
+BNS_98,selling child for purposes of prostitution,,"Selling child for purposes of prostitution, etc"
+BNS_99,buying child for purposes of prostitution,,"Buying child for purposes of prostitution, etc"
+BNS_103,murder,murder,Punishment for murder
+BNS_105,culpable homicide not amounting to murder,murder,Punishment for culpable homicide not amounting to murder
+BNS_106,nan,,nan
+BNS_107,suicide of child or person with mental illness,,Abetment of suicide of child or person with mental illness
+BNS_108,suicide,,Abetment of suicide
+BNS_109,murder,murder,Attempt to murder
+BNS_110,culpable homicide,murder,Attempt to commit culpable homicide
+BNS_111,organised crime,,Organised crime
+BNS_112,nan,,nan
+BNS_113,offence of terrorist act,,Offence of terrorist act
+BNS_115,voluntarily causing hurt,,Voluntarily causing hurt
+BNS_117,voluntarily causing grievous hurt,,Voluntarily causing grievous hurt
+BNS_118,voluntarily causing hurt or grievous hurt by dangerous weapons or means,,Voluntarily causing hurt or grievous hurt by dangerous weapons or means
+BNS_119,"voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal to an act",,"Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal to an act"
+BNS_120,"voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property",,"Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property"
+BNS_121,voluntarily causing hurt or grievous hurt to deter public servant from his duty,,Voluntarily causing hurt or grievous hurt to deter public servant from his duty
+BNS_122,voluntarily causing hurt or grievous hurt on provocation,,Voluntarily causing hurt or grievous hurt on provocation
+BNS_123,"causing hurt by means of poison, etc.",,"Causing hurt by means of poison, etc., with intent to commit an offence"
+BNS_124,voluntarily causing grievous hurt by use of acid,,"Voluntarily causing grievous hurt by use of acid, etc"
+BNS_125,act endangering life or personal safety of others,,Act endangering life or personal safety of others
+BNS_126,wrongful restraint,,Wrongful restraint
+BNS_127,wrongful confinement,,Wrongful confinement
+BNS_131,assault or criminal force otherwise than on grave provocation,,Punishment for assault or criminal force otherwise than on grave provocation
+BNS_132,assault or criminal force to deter public servant from discharge of his duty,,Assault or criminal force to deter public servant from discharge of his duty
+BNS_133,"assault or criminal force with intent to dishonor person, otherwise than on grave provocation",,"Assault or criminal force with intent to dishonor person, otherwise than on grave provocation"
+BNS_134,assault or criminal force in attempt to commit theft of property carried by a person,theft,Assault or criminal force in attempt to commit theft of property carried by a person
+BNS_135,assault or criminal force in attempt wrongfully to confine a person,,Assault or criminal force in attempt wrongfully to confine a person
+BNS_136,assault or criminal force on grave provocation,,Assault or criminal force on grave provocation
+BNS_137,kidnapping,,Kidnapping
+BNS_139,kidnapping or maiming a child for purposes of begging,,Kidnapping or maiming a child for purposes of begging
+BNS_140,kidnapping or abducting in order to murder or for ransom,murder,Kidnapping or abducting in order to murder or for ransom etc
+BNS_141,importation of girl or boy from foreign country,,Importation of girl or boy from foreign country
+BNS_142,"wrongfully concealing or keeping in confinement, kidnapped or abducted person",,"Wrongfully concealing or keeping in confinement, kidnapped or abducted person"
+BNS_143,trafficking of person,,Trafficking of person
+BNS_144,exploitation of a trafficked person,,Exploitation of a trafficked person
+BNS_145,habitual dealing in slaves,,Habitual dealing in slaves
+BNS_146,unlawful compulsory labour,,Unlawful compulsory labour
+BNS_147,"waging, or attempting to wage war, or abetting waging of war, against the government of india",,"Waging, or attempting to wage war, or abetting waging of war, against the Government of India"
+BNS_148,conspiracy to commit offences punishable by section 145,,Conspiracy to commit offences punishable by section 145
+BNS_149,"collecting arms, etc.",,"Collecting arms, etc., with intention of waging war against the Government of India"
+BNS_150,concealing with intent to facilitate design to wage war,,Concealing with intent to facilitate design to wage war
+BNS_151,"assaulting president, governor, etc.",,"Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power"
+BNS_152,acts endangering sovereignty unity and integrity of india,,Acts endangering sovereignty unity and integrity of India
+BNS_153,waging war against government of any foreign state at peace with the government of india,,Waging war against Government of any foreign State at peace with the Government of India
+BNS_154,committing depredation on territories of foreign state at peace with the government of india,,Committing depredation on territories of foreign State at peace with the Government of India
+BNS_155,receiving property taken by war or depredation mentioned in sections 153 and,,Receiving property taken by war or depredation mentioned in sections 153 and
+BNS_156,public servant voluntarily allowing prisoner of state or war to escape,,Public servant voluntarily allowing prisoner of state or war to escape
+BNS_157,public servant negligently suffering such prisoner to escape,,Public servant negligently suffering such prisoner to escape
+BNS_158,"aiding escape of, rescuing or harbouring such prisoner",,"Aiding escape of, rescuing or harbouring such prisoner"
+BNS_159,"mutiny, or attempting to seduce a soldier, sailor or airman from his duty",,"Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty"
+BNS_160,"mutiny, if mutiny is committed in consequence thereof",,"Abetment of mutiny, if mutiny is committed in consequence thereof"
+BNS_161,"assault by soldier, sailor or airman on his superior officer",,"Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office"
+BNS_162,"such assault, if the assault committed",,"Abetment of such assault, if the assault committed"
+BNS_163,"desertion of soldier, sailor or airman",,"Abetment of desertion of soldier, sailor or airman"
+BNS_164,harbouring deserter,,Harbouring deserter
+BNS_166,"act of insubordination by soldier, sailor or airman",,"Abetment of act of insubordination by soldier, sailor or airman"
+BNS_167,"wearing garb or carrying token used by soldier, sailor or airman",,"Wearing garb or carrying token used by soldier, sailor or airman"
+BNS_173,bribery,,Punishment for bribery
+BNS_174,undue influence or personation at an election,,Punishment for undue influence or personation at an election
+BNS_175,false statement in connection with an election,,False statement in connection with an election
+BNS_176,illegal payments in connection with an election,,Illegal payments in connection with an election
+BNS_177,failure to keep election accounts,,Failure to keep election accounts
+BNS_178,"counterfeiting coin, government stamps, currency-notes or bank-notes",,"Counterfeiting coin, government stamps, currency-notes or bank-notes"
+BNS_179,"forged or counterfeit coin, government stamp, currency-notes or bank notes",forgery,"Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank notes"
+BNS_180,"forged or counterfeit coin, government stamp, currency-notes or bank-notes",forgery,"Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes"
+BNS_181,"instruments or materials for forging or counterfeiting coin, government stamp, currency notes or bank-notes",forgery,"Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency notes or bank-notes"
+BNS_182,making or using documents resembling currency-notes or bank-notes,,Making or using documents resembling currency-notes or bank-notes
+BNS_183,"effacing writing from substance bearing government stamp, or removing from document a stamp used for it",,"Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government"
+BNS_184,using government stamp known to have been before used,,Using Government stamp known to have been before used
+BNS_185,erasure of mark denoting that stamp has been used,,Erasure of mark denoting that stamp has been used
+BNS_186,prohibition of fictitious stamps,,Prohibition of fictitious stamps
+BNS_187,person employed in mint causing coin to be of different weight or composition from that fixed by law,,Person employed in mint causing coin to be of different weight or composition from that fixed by law
+BNS_188,unlawfully taking coining instrument from mint,,Unlawfully taking coining instrument from mint
+BNS_189,unlawful assembly,,Unlawful assembly
+BNS_191,wantonly giving provocation with intent to cause riot- if rioting be committed; if not committed,,Wantonly giving provocation with intent to cause riot- if rioting be committed; if not committed
+BNS_193,"liability of owner, occupier etc., of land on which an unlawful assembly or riot takes place",,"Liability of owner, occupier etc., of land on which an unlawful assembly or riot takes place"
+BNS_194,affray,,Affray
+BNS_195,assaulting or obstructing public servant when suppressing riot,,"Assaulting or obstructing public servant when suppressing riot, etc"
+BNS_196,"promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",,"Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony"
+BNS_197,"imputations, assertions prejudicial to national integration",,"Imputations, assertions prejudicial to national integration"
+BNS_199,public servant disobeying direction under law,,Public servant disobeying direction under law
+BNS_200,non-treatment of victim,,Punishment for non-treatment of victim
+BNS_201,public servant framing an incorrect document with intent to cause injury,,Public servant framing an incorrect document with intent to cause injury
+BNS_202,public servant unlawfully engaging in trade,,Public servant unlawfully engaging in trade
+BNS_203,public servant unlawfully buying or bidding for property,,Public servant unlawfully buying or bidding for property
+BNS_204,personating a public servant,,Personating a public servant
+BNS_205,wearing garb or carrying token used by public servant with fraudulent intent,,Wearing garb or carrying token used by public servant with fraudulent intent
+BNS_206,absconding to avoid service of summons or other proceeding,,Absconding to avoid service of summons or other proceeding
+BNS_207,"preventing service of summons or other proceeding, or preventing publication thereof",,"Preventing service of summons or other proceeding, or preventing publication thereof"
+BNS_208,non-attendance in obedience to an order from public servant,,Non-attendance in obedience to an order from public servant
+BNS_209,non-appearance in response to a proclamation under section 82 of act __ of 2023,,Non-appearance in response to a proclamation under section 82 of Act __ of 2023
+BNS_210,omission to produce document to public servant by person legally bound to produce it,,Omission to produce document to public servant by person legally bound to produce it
+BNS_211,omission to give notice or information to public servant by person legally bound to give it,,Omission to give notice or information to public servant by person legally bound to give it
+BNS_212,furnishing false information,,Furnishing false information
+BNS_213,refusing oath or affirmation when duly required by public servant to make it,,Refusing oath or affirmation when duly required by public servant to make it
+BNS_214,refusing to answer public servant authorised to question,,Refusing to answer public servant authorised to question
+BNS_215,refusing to sign statement,,Refusing to sign statement
+BNS_216,false statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation,,False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation
+BNS_217,false information,,"False information, with intent to cause public servant to use his lawful power to the injury of another person"
+BNS_218,resistance to the taking of property by the lawful authority of a public servant,,Resistance to the taking of property by the lawful authority of a public servant
+BNS_219,obstructing sale of property offered for sale by authority of public servant,,Obstructing sale of property offered for sale by authority of public servant
+BNS_220,illegal purchase or bid for property offered for sale by authority of public servant,,Illegal purchase or bid for property offered for sale by authority of public servant
+BNS_221,obstructing public servant in discharge of public functions,,Obstructing public servant in discharge of public functions
+BNS_222,omission to assist public servant when bound by law to give assistance,,Omission to assist public servant when bound by law to give assistance
+BNS_223,disobedience to order duly promulgated by public servant,,Disobedience to order duly promulgated by public servant
+BNS_224,threat of injury to public servant,,Threat of injury to public servant
+BNS_225,threat of injury to induce person to refrain from applying for protection to public servant,,Threat of injury to induce person to refrain from applying for protection to public servant
+BNS_226,suicide to compel or restraint exercise of lawful power,,Attempt to commit suicide to compel or restraint exercise of lawful power
+BNS_229,false evidence,,Punishment for false evidence
+BNS_230,giving or fabricating false evidence with intent to procure conviction of capital offence,,Giving or fabricating false evidence with intent to procure conviction of capital offence
+BNS_231,giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment,,Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment
+BNS_232,threatening any person to give false evidence,,Threatening any person to give false evidence
+BNS_233,using evidence known to be false,,Using evidence known to be false
+BNS_234,issuing or signing false certificate,,Issuing or signing false certificate
+BNS_235,using as true a certificate known to be false,,Using as true a certificate known to be false
+BNS_236,false statement made in declaration which is by law receivable as evidence,,False statement made in declaration which is by law receivable as evidence
+BNS_237,using as true such declaration knowing it to be false,,Using as true such declaration knowing it to be false
+BNS_238,"causing disappearance of evidence of offence, or giving false information to screen offender",,"Causing disappearance of evidence of offence, or giving false information to screen offender"
+BNS_239,intentional omission to give information of offence by person bound to inform,,Intentional omission to give information of offence by person bound to inform
+BNS_240,nan,,nan
+BNS_241,destruction of document to prevent its production as evidence,,Destruction of document to prevent its production as evidence
+BNS_242,false personation for purpose of act or proceeding in suit or prosecution,,False personation for purpose of act or proceeding in suit or prosecution
+BNS_243,fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution,,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution
+BNS_244,fraudulent claim to property to prevent its seizure as forfeited or in execution,,Fraudulent claim to property to prevent its seizure as forfeited or in execution
+BNS_245,fraudulently suffering decree for sum not due,,Fraudulently suffering decree for sum not due
+BNS_246,dishonestly making false claim in court,,Dishonestly making false claim in Court
+BNS_247,fraudulently obtaining decree for sum not due,,Fraudulently obtaining decree for sum not due
+BNS_248,false charge of offence made with intent to injure,,False charge of offence made with intent to injure
+BNS_249,harbouring offender,,Harbouring offender
+BNS_250,"taking gift, etc., to screen an offender from punishment",,"Taking gift, etc., to screen an offender from punishment"
+BNS_251,offering gift or restoration of property in consideration of screening offender,,Offering gift or restoration of property in consideration of screening offender
+BNS_252,taking gift to help to recover stolen property,,"Taking gift to help to recover stolen property, etc"
+BNS_253,harbouring offender who has escaped from custody or whose apprehension has been ordered,,Harbouring offender who has escaped from custody or whose apprehension has been ordered
+BNS_254,penalty for harbouring robbers or dacoits,,Penalty for harbouring robbers or dacoits
+BNS_255,public servant disobeying direction of law with intent to save person from punishment or property from forfeiture,,Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture
+BNS_256,public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture,,Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture
+BNS_257,"public servant in judicial proceeding corruptly making report, etc., contrary to law",,"Public servant in judicial proceeding corruptly making report, etc., contrary to law"
+BNS_258,commitment for trial or confinement by person having authority who knows that he is acting contrary to law,,Commitment for trial or confinement by person having authority who knows that he is acting contrary to law
+BNS_259,intentional omission to apprehend on the part of public servant bound to apprehend,,Intentional omission to apprehend on the part of public servant bound to apprehend
+BNS_260,intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed,,Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed
+BNS_261,escape from confinement or custody negligently suffered by public servant,,Escape from confinement or custody negligently suffered by public servant
+BNS_262,resistance or obstruction by a person to his lawful apprehension,,Resistance or obstruction by a person to his lawful apprehension
+BNS_263,resistance or obstruction to lawful apprehension of another person,,Resistance or obstruction to lawful apprehension of another person
+BNS_264,"omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for",,"Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for"
+BNS_265,resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for,,Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for
+BNS_266,violation of condition of remission of punishment,,Violation of condition of remission of punishment
+BNS_268,personation of an assessor,,Personation of an assessor
+BNS_269,failure by person released on bail or bond to appear in court,,Failure by person released on bail or bond to appear in court
+BNS_271,negligent act likely to spread infection of disease dangerous to life,,Negligent act likely to spread infection of disease dangerous to life
+BNS_272,malignant act likely to spread infection of disease dangerous to life,,Malignant act likely to spread infection of disease dangerous to life
+BNS_273,disobedience to quarantine rule,,Disobedience to quarantine rule
+BNS_274,adulteration of food or drink intended for sale,,Adulteration of food or drink intended for sale
+BNS_275,sale of noxious food or drink,,Sale of noxious food or drink
+BNS_276,adulteration of drugs,,Adulteration of drugs
+BNS_277,sale of adulterated drugs,,Sale of adulterated drugs
+BNS_278,sale of drug as a different drug or preparation,,Sale of drug as a different drug or preparation
+BNS_279,fouling water of public spring or reservoir,,Fouling water of public spring or reservoir
+BNS_280,making atmosphere noxious to health,,Making atmosphere noxious to health
+BNS_281,rash driving or riding on a public way,,Rash driving or riding on a public way
+BNS_282,rash navigation of vessel,,Rash navigation of vessel
+BNS_283,"exhibition of false light, mark or buoy",,"Exhibition of false light, mark or buoy"
+BNS_284,conveying person by water for hire in unsafe or overloaded vessel,,Conveying person by water for hire in unsafe or overloaded vessel
+BNS_285,danger or obstruction in public way or line of navigation,,Danger or obstruction in public way or line of navigation
+BNS_286,negligent conduct with respect to fire or combustible matter,,Negligent conduct with respect to fire or combustible matter
+BNS_288,negligent conduct with respect to explosive substance,,Negligent conduct with respect to explosive substance
+BNS_290,"negligent conduct with respect to pulling down, repairing or constructing buildings",,"Negligent conduct with respect to pulling down, repairing or constructing buildings etc"
+BNS_291,negligent conduct with respect to animal,,Negligent conduct with respect to animal
+BNS_292,public nuisance in cases not otherwise provided for,,Punishment for public nuisance in cases not otherwise provided for
+BNS_293,continuance of nuisance after injunction to discontinue,,Continuance of nuisance after injunction to discontinue
+BNS_294,"sale, etc., of obscene books",,"Sale, etc., of obscene books, etc"
+BNS_295,"sale, etc., of obscene objects to child",,"Sale, etc., of obscene objects to child"
+BNS_296,obscene acts and songs,,Obscene acts and songs
+BNS_297,keeping lottery office,,Keeping lottery office
+BNS_298,injuring or defiling place of worship,,"Injuring or defiling place of worship, with intent to insult the religion of any class"
+BNS_300,trespassing on burial places,,"Trespassing on burial places, etc"
+BNS_302,"uttering words, etc.",,"Uttering words, etc., with deliberate intent to wound religious feelings"
+BNS_303,theft,theft,Theft
+BNS_304,snatching,theft,Snatching
+BNS_305,"theft in a dwelling house, or means of transportation or place of worship",theft,"Theft in a dwelling house, or means of transportation or place of worship, etc"
+BNS_306,theft by clerk or servant of property in possession of master,theft,Theft by clerk or servant of property in possession of master
+BNS_307,"theft after preparation made for causing death, hurt or restraint in order to the committing of theft",theft,"Theft after preparation made for causing death, hurt or restraint in order to the committing of theft"
+BNS_308,extortion,extortion,Extortion
+BNS_309,robbery,robbery,Robbery
+BNS_310,dacoity,robbery,Dacoity
+BNS_311,"robbery, or dacoity",robbery,"Robbery, or dacoity, with attempt to cause death or grievous hurt"
+BNS_312,robbery or dacoity when armed with deadly weapon,robbery,Attempt to commit robbery or dacoity when armed with deadly weapon
+BNS_313,"belonging to gang of robbers, dacoits",,"Punishment for belonging to gang of robbers, dacoits, etc"
+BNS_314,dishonest misappropriation of property,,Dishonest misappropriation of property
+BNS_315,dishonest misappropriation of property possessed by deceased person at the time of his death,,Dishonest misappropriation of property possessed by deceased person at the time of his death
+BNS_316,criminal breach of trust,,Criminal breach of trust
+BNS_317,stolen property,,Stolen property
+BNS_318,cheating,cheating,Cheating
+BNS_319,cheating by personation,cheating,Cheating by personation
+BNS_320,dishonest or fraudulent removal or concealment of property to prevent distribution among creditors,,Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
+BNS_321,dishonestly or fraudulently preventing debt being available for creditors,,Dishonestly or fraudulently preventing debt being available for creditors
+BNS_322,dishonest or fraudulent execution of deed of transfer containing false statement of consideration,,Dishonest or fraudulent execution of deed of transfer containing false statement of consideration
+BNS_323,dishonest or fraudulent removal or concealment of property,,Dishonest or fraudulent removal or concealment of property
+BNS_324,mischief,,Mischief
+BNS_325,mischief by killing or maiming animal,,Mischief by killing or maiming animal
+BNS_326,"mischief by injury, inundation, fire or explosive substance",,"Mischief by injury, inundation, fire or explosive substance, etc"
+BNS_327,"mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden",,"Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden"
+BNS_328,intentionally running vessel aground or ashore with intent to commit theft,theft,"Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc"
+BNS_329,criminal trespass and house-trespass,,Criminal trespass and house-trespass
+BNS_330,house-trespass and house-breaking,,House-trespass and house-breaking
+BNS_332,house-trespass in order to commit offence,,House-trespass in order to commit offence
+BNS_333,"house-trespass after preparation for hurt, assault or wrongful restraint",,"House-trespass after preparation for hurt, assault or wrongful restraint"
+BNS_334,dishonestly breaking open receptacle containing property,,Dishonestly breaking open receptacle containing property
+BNS_336,forgery,forgery,Forgery
+BNS_337,forgery of record of court or of public register,forgery,"Forgery of record of Court or of public register, etc"
+BNS_338,"forgery of valuable security, will",forgery,"Forgery of valuable security, will, etc"
+BNS_339,"document described in section 335 or 336, knowing it to be forged and intending to use it as genuine",forgery,"Having possession of document described in section 335 or 336, knowing it to be forged and intending to use it as genuine"
+BNS_340,forged document or electronic record and using it as genuine,forgery,Forged document or electronic record and using it as genuine
+BNS_341,"counterfeit seal, etc.",forgery,"Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 336"
+BNS_342,"counterfeiting device or mark used for authenticating documents described in section 336, or possessing counterfeit marked material",,"Counterfeiting device or mark used for authenticating documents described in section 336, or possessing counterfeit marked material"
+BNS_343,"fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",,"Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security"
+BNS_344,falsification of accounts,,Falsification of accounts
+BNS_345,property mark,,Property mark
+BNS_346,tampering with property mark with intent to cause injury,,Tampering with property mark with intent to cause injury
+BNS_347,counterfeiting a property mark,,Counterfeiting a property mark
+BNS_348,making or possession of any instrument for counterfeiting a property mark,,Making or possession of any instrument for counterfeiting a property mark
+BNS_349,selling goods marked with a counterfeit property mark,,Selling goods marked with a counterfeit property mark
+BNS_350,"making a false mark upon any receptacle containing goods. of criminal intimidation, insult, annoyance, defamation",,"Making a false mark upon any receptacle containing goods. OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC"
+BNS_351,criminal intimidation,,Criminal intimidation
+BNS_352,intentional insult with intent to provoke breach of peace,,Intentional insult with intent to provoke breach of peace
+BNS_353,statements conducing to public mischief,,Statements conducing to public mischief
+BNS_354,act caused by inducing person to believe that he will be rendered an object of the divine displeasure,,Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure
+BNS_355,misconduct in public by a drunken person,,Misconduct in public by a drunken person
+BNS_356,defamation,,Defamation
+BNS_357,breach of contract to attend on and supply wants of helpless person,,Breach of contract to attend on and supply wants of helpless person

@@ -1,0 +1,246 @@
+bench,query_id,result,stop,raw,pred,in,out,gold,correct
+orig,O052,succeeded,end_turn,robbery,robbery,143,5,robbery,True
+facts,F066,succeeded,end_turn,forgery,forgery,150,30,forgery,True
+facts,F007,succeeded,end_turn,theft,theft,152,36,theft,True
+orig,O056,succeeded,end_turn,robbery,robbery,146,95,robbery,True
+facts,F085,succeeded,end_turn,murder,murder,154,4,murder,True
+orig,O010,succeeded,end_turn,murder,murder,143,4,murder,True
+orig,O032,succeeded,end_turn,theft,theft,139,4,theft,True
+facts,F120,succeeded,end_turn,sexual harassment,sexual harassment,152,130,sexual harassment,True
+facts,F031,succeeded,end_turn,extortion,extortion,151,5,extortion,True
+orig,O057,succeeded,end_turn,robbery,robbery,144,5,robbery,True
+orig,O089,succeeded,end_turn,sexual harassment,sexual harassment,147,8,sexual harassment,True
+orig,O028,succeeded,end_turn,sexual harassment,sexual harassment,148,303,rape,False
+orig,O092,succeeded,end_turn,extortion,extortion,140,5,extortion,True
+facts,F089,succeeded,end_turn,murder,murder,154,134,murder,True
+orig,O102,succeeded,end_turn,cheating,cheating,140,5,cheating,True
+facts,F128,succeeded,end_turn,stalking,stalking,153,5,stalking,True
+facts,F073,succeeded,end_turn,forgery,forgery,155,39,forgery,True
+facts,F024,succeeded,end_turn,robbery,robbery,156,54,robbery,True
+facts,F021,succeeded,end_turn,robbery,robbery,155,32,robbery,True
+facts,F064,succeeded,end_turn,forgery,forgery,152,5,forgery,True
+facts,F134,succeeded,end_turn,stalking,stalking,157,5,stalking,True
+facts,F112,succeeded,end_turn,sexual harassment,sexual harassment,157,8,sexual harassment,True
+orig,O026,succeeded,end_turn,rape,rape,152,4,rape,True
+orig,O083,succeeded,end_turn,sexual harassment,sexual harassment,146,8,sexual harassment,True
+orig,O078,succeeded,end_turn,stalking,stalking,145,5,stalking,True
+facts,F093,succeeded,end_turn,rape,rape,156,4,rape,True
+facts,F072,succeeded,end_turn,forgery,forgery,154,51,forgery,True
+orig,O013,succeeded,end_turn,murder,murder,143,63,murder,True
+facts,F119,succeeded,end_turn,sexual harassment,sexual harassment,155,8,sexual harassment,True
+facts,F130,succeeded,end_turn,stalking,stalking,158,5,stalking,True
+facts,F023,succeeded,end_turn,robbery,robbery,159,93,robbery,True
+orig,O055,succeeded,end_turn,robbery,robbery,146,5,robbery,True
+orig,O042,succeeded,end_turn,theft,theft,144,4,theft,True
+facts,F121,succeeded,end_turn,stalking,stalking,154,5,stalking,True
+facts,F115,succeeded,end_turn,sexual harassment,sexual harassment,156,8,sexual harassment,True
+orig,O080,succeeded,end_turn,stalking,stalking,145,5,stalking,True
+facts,F105,succeeded,end_turn,rape,rape,148,4,rape,True
+facts,F132,succeeded,end_turn,stalking,stalking,151,61,stalking,True
+facts,F058,succeeded,end_turn,cheating,cheating,156,59,cheating,True
+orig,O073,succeeded,end_turn,stalking,stalking,146,5,stalking,True
+facts,F092,succeeded,end_turn,"The situation describes only the ages of the parties, not any act, so it does not support any of these categories. Please add what the accused allegedly did, and I'll reply with the single category na",UNPARSED,156,338,rape,False
+orig,O005,succeeded,end_turn,murder,murder,140,47,murder,True
+orig,O065,succeeded,end_turn,forgery,forgery,144,5,forgery,True
+facts,F050,succeeded,end_turn,cheating,cheating,154,5,cheating,True
+orig,O048,succeeded,end_turn,robbery,robbery,142,5,robbery,True
+facts,F051,succeeded,end_turn,cheating,cheating,157,37,cheating,True
+facts,F049,succeeded,end_turn,cheating,cheating,151,5,cheating,True
+orig,O063,succeeded,end_turn,forgery,forgery,144,5,forgery,True
+facts,F103,succeeded,end_turn,rape,rape,155,90,rape,True
+orig,O076,succeeded,end_turn,stalking,stalking,147,5,stalking,True
+facts,F065,succeeded,end_turn,forgery,forgery,151,54,forgery,True
+facts,F052,succeeded,end_turn,cheating,cheating,155,5,cheating,True
+facts,F074,succeeded,end_turn,forgery,forgery,155,5,forgery,True
+orig,O084,succeeded,end_turn,sexual harassment,sexual harassment,147,8,sexual harassment,True
+facts,F087,succeeded,end_turn,murder,murder,152,4,murder,True
+facts,F088,succeeded,end_turn,murder,murder,154,59,murder,True
+orig,O103,succeeded,end_turn,cheating,cheating,143,28,cheating,True
+facts,F018,succeeded,end_turn,robbery,robbery,156,5,robbery,True
+orig,O022,succeeded,end_turn,rape,rape,145,4,rape,True
+facts,F046,succeeded,end_turn,cheating,cheating,152,5,cheating,True
+facts,F100,succeeded,end_turn,rape,rape,155,89,rape,True
+facts,F078,succeeded,end_turn,murder,murder,151,4,murder,True
+orig,O090,succeeded,end_turn,sexual harassment,sexual harassment,148,8,sexual harassment,True
+facts,F061,succeeded,end_turn,forgery,forgery,148,5,forgery,True
+facts,F079,succeeded,end_turn,murder,murder,159,4,murder,True
+orig,O050,succeeded,end_turn,robbery,robbery,144,5,robbery,True
+orig,O087,succeeded,end_turn,sexual harassment,sexual harassment,148,44,sexual harassment,True
+facts,F035,succeeded,end_turn,extortion,extortion,155,5,extortion,True
+facts,F106,succeeded,end_turn,sexual harassment,sexual harassment,165,8,sexual harassment,True
+facts,F122,succeeded,end_turn,stalking,stalking,159,5,stalking,True
+facts,F094,succeeded,end_turn,rape,rape,155,458,rape,True
+facts,F082,succeeded,end_turn,murder,murder,158,67,murder,True
+orig,O051,succeeded,end_turn,robbery,robbery,146,5,robbery,True
+facts,F076,succeeded,end_turn,murder,murder,161,4,murder,True
+orig,O062,succeeded,end_turn,forgery,forgery,140,5,forgery,True
+facts,F067,succeeded,end_turn,forgery,forgery,151,122,forgery,True
+facts,F086,succeeded,end_turn,murder,murder,150,61,murder,True
+orig,O025,succeeded,end_turn,rape,rape,143,41,rape,True
+orig,O011,succeeded,end_turn,murder,murder,142,53,murder,True
+facts,F030,succeeded,end_turn,robbery,robbery,157,80,robbery,True
+facts,F125,succeeded,end_turn,stalking,stalking,160,5,stalking,True
+orig,O066,succeeded,end_turn,forgery,forgery,146,29,forgery,True
+facts,F047,succeeded,end_turn,cheating,cheating,153,5,cheating,True
+facts,F117,succeeded,end_turn,sexual harassment,sexual harassment,158,8,sexual harassment,True
+facts,F099,succeeded,end_turn,rape,rape,155,378,rape,True
+facts,F059,succeeded,end_turn,cheating,cheating,155,72,cheating,True
+orig,O106,succeeded,end_turn,cheating,cheating,146,26,cheating,True
+orig,O104,succeeded,end_turn,cheating,cheating,145,5,cheating,True
+orig,O079,succeeded,end_turn,stalking,stalking,142,5,stalking,True
+facts,F013,succeeded,end_turn,theft,theft,157,174,theft,True
+facts,F127,succeeded,end_turn,stalking,stalking,156,5,stalking,True
+orig,O075,succeeded,end_turn,stalking,stalking,146,5,stalking,True
+orig,O004,succeeded,end_turn,murder,murder,143,4,murder,True
+orig,O094,succeeded,end_turn,extortion,extortion,146,5,extortion,True
+orig,O081,succeeded,end_turn,sexual harassment,sexual harassment,146,8,sexual harassment,True
+orig,O030,succeeded,end_turn,rape,rape,146,23,rape,True
+facts,F017,succeeded,end_turn,robbery,robbery,152,38,robbery,True
+orig,O071,succeeded,end_turn,stalking,stalking,143,5,stalking,True
+facts,F104,succeeded,end_turn,rape,rape,153,65,rape,True
+facts,F109,succeeded,end_turn,sexual harassment,sexual harassment,156,8,sexual harassment,True
+orig,O110,succeeded,end_turn,cheating,cheating,145,5,cheating,True
+facts,F028,succeeded,end_turn,robbery,robbery,153,63,robbery,True
+orig,O091,succeeded,end_turn,extortion,extortion,143,5,extortion,True
+facts,F003,succeeded,end_turn,theft,theft,154,57,theft,True
+orig,O097,succeeded,end_turn,extortion,extortion,147,5,extortion,True
+facts,F081,succeeded,end_turn,murder,murder,155,4,murder,True
+facts,F133,succeeded,end_turn,stalking,stalking,151,53,stalking,True
+orig,O044,succeeded,end_turn,theft,theft,146,4,theft,True
+facts,F090,succeeded,end_turn,murder,murder,152,4,murder,True
+facts,F075,succeeded,end_turn,forgery,forgery,156,68,forgery,True
+orig,O086,succeeded,end_turn,sexual harassment,sexual harassment,150,8,sexual harassment,True
+facts,F036,succeeded,end_turn,extortion,extortion,154,5,extortion,True
+orig,O068,succeeded,end_turn,forgery,forgery,145,5,forgery,True
+facts,F011,succeeded,end_turn,theft,theft,161,140,theft,True
+orig,O001,succeeded,end_turn,murder,murder,142,44,murder,True
+orig,O059,succeeded,end_turn,robbery,robbery,142,32,robbery,True
+orig,O015,succeeded,end_turn,murder,murder,146,4,murder,True
+facts,F038,succeeded,end_turn,extortion,extortion,157,60,extortion,True
+orig,O101,succeeded,end_turn,cheating,cheating,143,5,cheating,True
+facts,F101,succeeded,end_turn,rape,rape,154,53,rape,True
+orig,O017,succeeded,end_turn,rape,rape,139,4,rape,True
+orig,O037,succeeded,end_turn,theft,theft,147,4,theft,True
+facts,F070,succeeded,end_turn,forgery,forgery,158,102,forgery,True
+facts,F063,succeeded,end_turn,forgery,forgery,154,55,forgery,True
+facts,F123,succeeded,end_turn,stalking,stalking,153,5,stalking,True
+orig,O007,succeeded,end_turn,murder,murder,145,4,murder,True
+orig,O093,succeeded,end_turn,extortion,extortion,143,5,extortion,True
+orig,O105,succeeded,end_turn,cheating,cheating,144,5,cheating,True
+facts,F026,succeeded,end_turn,robbery,robbery,161,50,robbery,True
+orig,O014,succeeded,end_turn,murder,murder,144,4,murder,True
+facts,F057,succeeded,end_turn,cheating,cheating,159,5,cheating,True
+facts,F102,succeeded,end_turn,cheating,cheating,152,396,rape,False
+orig,O021,succeeded,end_turn,rape,rape,143,4,rape,True
+orig,O027,succeeded,end_turn,rape,rape,144,4,rape,True
+orig,O018,succeeded,end_turn,rape,rape,141,4,rape,True
+orig,O002,succeeded,end_turn,murder,murder,139,4,murder,True
+facts,F010,succeeded,end_turn,theft,theft,156,4,theft,True
+orig,O096,succeeded,end_turn,extortion,extortion,146,5,extortion,True
+orig,O047,succeeded,end_turn,robbery,robbery,140,5,robbery,True
+facts,F004,succeeded,end_turn,theft,theft,158,39,theft,True
+facts,F084,succeeded,end_turn,murder,murder,157,91,murder,True
+orig,O008,succeeded,end_turn,murder,murder,148,4,murder,True
+orig,O012,succeeded,end_turn,murder,murder,144,4,murder,True
+orig,O053,succeeded,end_turn,robbery,robbery,145,5,robbery,True
+facts,F040,succeeded,end_turn,extortion,extortion,154,113,extortion,True
+orig,O070,succeeded,end_turn,forgery,forgery,147,5,forgery,True
+facts,F068,succeeded,end_turn,forgery,forgery,152,5,forgery,True
+orig,O108,succeeded,end_turn,cheating,cheating,145,63,cheating,True
+orig,O029,succeeded,end_turn,rape,rape,143,4,rape,True
+orig,O009,succeeded,end_turn,murder,murder,144,4,murder,True
+facts,F022,succeeded,end_turn,robbery,robbery,163,5,robbery,True
+orig,O099,succeeded,end_turn,extortion,extortion,145,5,extortion,True
+facts,F116,succeeded,end_turn,sexual harassment,sexual harassment,155,8,sexual harassment,True
+facts,F012,succeeded,end_turn,theft,theft,159,4,theft,True
+orig,O082,succeeded,end_turn,sexual harassment,sexual harassment,144,8,sexual harassment,True
+orig,O054,succeeded,end_turn,robbery,robbery,145,5,robbery,True
+orig,O041,succeeded,end_turn,theft,theft,144,4,theft,True
+facts,F005,succeeded,end_turn,theft,theft,153,53,theft,True
+facts,F009,succeeded,end_turn,theft,theft,152,4,theft,True
+facts,F002,succeeded,end_turn,theft,theft,152,21,theft,True
+facts,F037,succeeded,end_turn,extortion,extortion,156,5,extortion,True
+facts,F056,succeeded,end_turn,cheating,cheating,156,5,cheating,True
+orig,O074,succeeded,end_turn,stalking,stalking,144,5,stalking,True
+orig,O046,succeeded,end_turn,robbery,robbery,143,5,robbery,True
+facts,F131,succeeded,end_turn,stalking,stalking,151,5,stalking,True
+facts,F129,succeeded,end_turn,stalking,stalking,157,5,stalking,True
+facts,F020,succeeded,end_turn,robbery,robbery,159,53,robbery,True
+facts,F019,succeeded,end_turn,robbery,robbery,160,5,robbery,True
+facts,F025,succeeded,end_turn,robbery,robbery,155,76,robbery,True
+orig,O085,succeeded,end_turn,sexual harassment,sexual harassment,149,8,sexual harassment,True
+facts,F053,succeeded,end_turn,cheating,cheating,156,49,cheating,True
+orig,O045,succeeded,end_turn,theft,theft,141,39,theft,True
+facts,F034,succeeded,end_turn,extortion,extortion,154,66,extortion,True
+orig,O109,succeeded,end_turn,cheating,cheating,145,5,cheating,True
+orig,O034,succeeded,end_turn,theft,theft,141,4,theft,True
+facts,F108,succeeded,end_turn,sexual harassment,sexual harassment,151,8,sexual harassment,True
+orig,O006,succeeded,end_turn,murder,murder,145,53,murder,True
+facts,F126,succeeded,end_turn,stalking,stalking,159,5,stalking,True
+facts,F001,succeeded,end_turn,theft,theft,152,4,theft,True
+orig,O038,succeeded,end_turn,theft,theft,146,4,theft,True
+facts,F015,succeeded,end_turn,theft,theft,153,57,theft,True
+facts,F033,succeeded,end_turn,extortion,extortion,153,5,extortion,True
+orig,O036,succeeded,end_turn,theft,theft,145,4,theft,True
+facts,F083,succeeded,end_turn,murder,murder,150,45,murder,True
+orig,O023,succeeded,end_turn,rape,rape,142,4,rape,True
+orig,O067,succeeded,end_turn,forgery,forgery,143,5,forgery,True
+orig,O033,succeeded,end_turn,theft,theft,143,4,theft,True
+facts,F114,succeeded,end_turn,sexual harassment,sexual harassment,161,8,sexual harassment,True
+facts,F096,succeeded,end_turn,rape,rape,152,89,rape,True
+orig,O107,succeeded,end_turn,cheating,cheating,147,5,cheating,True
+facts,F077,succeeded,end_turn,murder,murder,154,4,murder,True
+orig,O019,succeeded,end_turn,rape,rape,145,34,rape,True
+orig,O064,succeeded,end_turn,forgery,forgery,143,5,forgery,True
+orig,O077,succeeded,end_turn,stalking,stalking,145,5,stalking,True
+facts,F071,succeeded,end_turn,forgery,forgery,148,5,forgery,True
+orig,O031,succeeded,end_turn,theft,theft,142,4,theft,True
+facts,F027,succeeded,end_turn,robbery,robbery,152,5,robbery,True
+orig,O072,succeeded,end_turn,stalking,stalking,140,5,stalking,True
+facts,F135,succeeded,end_turn,stalking,stalking,153,134,stalking,True
+facts,F060,succeeded,end_turn,cheating,cheating,158,94,cheating,True
+orig,O088,succeeded,end_turn,sexual harassment,sexual harassment,148,8,sexual harassment,True
+facts,F042,succeeded,end_turn,extortion,extortion,157,92,extortion,True
+facts,F039,succeeded,end_turn,extortion,extortion,155,92,extortion,True
+facts,F032,succeeded,end_turn,extortion,extortion,158,5,extortion,True
+facts,F098,succeeded,end_turn,rape,rape,149,4,rape,True
+facts,F113,succeeded,end_turn,sexual harassment,sexual harassment,153,8,sexual harassment,True
+orig,O098,succeeded,end_turn,extortion,extortion,145,5,extortion,True
+orig,O040,succeeded,end_turn,theft,theft,144,4,theft,True
+facts,F095,succeeded,end_turn,rape,rape,151,86,rape,True
+facts,F107,succeeded,end_turn,sexual harassment,sexual harassment,155,71,sexual harassment,True
+facts,F062,succeeded,end_turn,forgery,forgery,150,5,forgery,True
+facts,F124,succeeded,end_turn,stalking,stalking,147,5,stalking,True
+facts,F041,succeeded,end_turn,extortion,extortion,152,45,extortion,True
+orig,O100,succeeded,end_turn,extortion,extortion,145,5,extortion,True
+facts,F111,succeeded,end_turn,sexual harassment,sexual harassment,156,43,sexual harassment,True
+facts,F091,succeeded,end_turn,rape,rape,155,4,rape,True
+facts,F043,succeeded,end_turn,extortion,extortion,164,91,extortion,True
+facts,F110,succeeded,end_turn,sexual harassment,sexual harassment,158,8,sexual harassment,True
+orig,O016,succeeded,end_turn,rape,rape,142,4,rape,True
+facts,F080,succeeded,end_turn,murder,murder,158,76,murder,True
+orig,O060,succeeded,end_turn,robbery,robbery,145,5,robbery,True
+facts,F029,succeeded,end_turn,robbery,robbery,154,5,robbery,True
+orig,O058,succeeded,end_turn,robbery,robbery,142,5,robbery,True
+orig,O035,succeeded,end_turn,theft,theft,143,4,theft,True
+facts,F048,succeeded,end_turn,cheating,cheating,153,67,cheating,True
+facts,F044,succeeded,end_turn,extortion,extortion,156,5,extortion,True
+orig,O049,succeeded,end_turn,robbery,robbery,143,5,robbery,True
+facts,F016,succeeded,end_turn,robbery,robbery,151,39,robbery,True
+orig,O061,succeeded,end_turn,forgery,forgery,143,5,forgery,True
+facts,F055,succeeded,end_turn,cheating,cheating,149,5,cheating,True
+facts,F006,succeeded,end_turn,theft,theft,153,28,theft,True
+facts,F118,succeeded,end_turn,sexual harassment,sexual harassment,153,52,sexual harassment,True
+facts,F069,succeeded,end_turn,forgery,forgery,148,5,forgery,True
+orig,O095,succeeded,end_turn,extortion,extortion,144,5,extortion,True
+facts,F054,succeeded,end_turn,forgery,forgery,156,203,cheating,False
+orig,O069,succeeded,end_turn,forgery,forgery,145,5,forgery,True
+facts,F045,succeeded,end_turn,extortion,extortion,159,68,extortion,True
+orig,O043,succeeded,end_turn,theft,theft,143,41,theft,True
+facts,F014,succeeded,end_turn,theft,theft,155,4,theft,True
+orig,O024,succeeded,end_turn,rape,rape,144,4,rape,True
+orig,O039,succeeded,end_turn,theft,theft,144,4,theft,True
+facts,F097,succeeded,end_turn,rape,rape,152,122,rape,True
+facts,F008,succeeded,end_turn,theft,theft,149,102,theft,True
+orig,O003,succeeded,end_turn,murder,murder,143,4,murder,True
+orig,O020,succeeded,end_turn,rape,rape,142,79,rape,True

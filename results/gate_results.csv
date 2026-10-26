@@ -1,0 +1,27 @@
+benchmark,system,k,correct,n,accuracy
+ORIGINAL (n=110),trivial (no graph),-,103,110,93.64
+ORIGINAL (n=110),OLD graph,1,74,110,67.27
+ORIGINAL (n=110),OLD graph,2,83,110,75.45
+ORIGINAL (n=110),OLD graph,3,90,110,81.82
+ORIGINAL (n=110),OLD graph,5,95,110,86.36
+ORIGINAL (n=110),OLD graph,10,98,110,89.09
+ORIGINAL (n=110),OLD graph,20,100,110,90.91
+ORIGINAL (n=110),NEW graph,1,80,110,72.73
+ORIGINAL (n=110),NEW graph,2,89,110,80.91
+ORIGINAL (n=110),NEW graph,3,99,110,90.0
+ORIGINAL (n=110),NEW graph,5,103,110,93.64
+ORIGINAL (n=110),NEW graph,10,106,110,96.36
+ORIGINAL (n=110),NEW graph,20,109,110,99.09
+BNS-Facts-135,trivial (no graph),-,82,135,60.74
+BNS-Facts-135,OLD graph,1,29,135,21.48
+BNS-Facts-135,OLD graph,2,43,135,31.85
+BNS-Facts-135,OLD graph,3,48,135,35.56
+BNS-Facts-135,OLD graph,5,59,135,43.7
+BNS-Facts-135,OLD graph,10,76,135,56.3
+BNS-Facts-135,OLD graph,20,94,135,69.63
+BNS-Facts-135,NEW graph,1,38,135,28.15
+BNS-Facts-135,NEW graph,2,50,135,37.04
+BNS-Facts-135,NEW graph,3,54,135,40.0
+BNS-Facts-135,NEW graph,5,62,135,45.93
+BNS-Facts-135,NEW graph,10,79,135,58.52
+BNS-Facts-135,NEW graph,20,101,135,74.81

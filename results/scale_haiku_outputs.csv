@@ -1,0 +1,406 @@
+model,condition,query_id,gold,grounding,offence,section,max_imprisonment,death_possible,stop,max_imp,offence_ok,sec_family_ok,sec_exact_ok,ipc_confusion,nonexistent,max_ok,death_scored,death_ok
+claude-haiku-4-5,rag,F014,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F025,robbery,BNS_310,robbery,391,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,rag,F078,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F037,extortion,BNS_308,extortion,303,3,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F087,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F013,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F033,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F020,robbery,BNS_310,robbery,309,10 years,False,end_turn,10,True,True,False,False,False,True,False,
+claude-haiku-4-5,none,F027,robbery,BNS_309,robbery,304,10,False,end_turn,10,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F015,theft,BNS_305,theft,305,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F038,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F001,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F008,theft,BNS_306,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F122,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F086,murder,BNS_105,murder,103,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F102,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F104,rape,BNS_65,rape,375,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,none,F099,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,none,F081,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F072,forgery,BNS_340,forgery,219,2,False,end_turn,2,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F063,forgery,BNS_340,forgery,340,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F026,robbery,BNS_309,robbery,309,14,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F131,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F130,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F087,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F049,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F045,extortion,BNS_308,extortion,303,3,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag,F007,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F074,forgery,BNS_336,forgery,226,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F126,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F130,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F121,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F051,cheating,BNS_319,cheating,318,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F019,robbery,BNS_309,robbery,309,10 years,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F023,robbery,BNS_309,robbery,309,10,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F086,murder,BNS_105,murder,103,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F106,sexual harassment,BNS_75,sexual harassment,75,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F105,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag+graph,F077,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F106,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F108,sexual harassment,BNS_75,sexual harassment,77,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F046,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F111,sexual harassment,BNS_75,sexual harassment,75,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F076,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F087,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F012,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F062,forgery,BNS_336,forgery,335,7 years,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F110,sexual harassment,BNS_75,sexual harassment,79,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F121,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F096,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag+graph,F035,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F010,theft,BNS_305,theft,305,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F118,sexual harassment,BNS_75,sexual harassment,354,3 years,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F009,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F101,rape,BNS_64,rape,89,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F014,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F092,rape,BNS_65,rape,63,life,False,end_turn,life,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag,F068,forgery,BNS_336,forgery,344,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F065,forgery,BNS_336,forgery,222,2,False,end_turn,2,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F050,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F052,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F114,sexual harassment,BNS_75,sexual harassment,79,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F116,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F069,forgery,BNS_336,forgery,338,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F120,sexual harassment,BNS_75,sexual harassment,3,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F028,robbery,BNS_311,robbery,391,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag+graph,F096,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F073,forgery,BNS_336,forgery,336,2 years,False,end_turn,2,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F127,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F107,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F068,forgery,BNS_336,forgery,226,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F013,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F046,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F095,rape,BNS_64,rape,64,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F003,theft,BNS_305,theft,305,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F120,sexual harassment,BNS_75,sexual harassment,75,1,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F099,rape,BNS_64,rape,63,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag,F120,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F060,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F006,theft,BNS_305,theft,303,3 years,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F054,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F030,robbery,BNS_310,robbery,310,10 years,False,end_turn,10,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag+graph,F098,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag,F090,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F117,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F008,theft,BNS_306,theft,306,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F082,murder,BNS_110,murder,100,life,False,end_turn,life,True,True,False,False,False,False,True,True
+claude-haiku-4-5,rag,F041,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F085,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F042,extortion,BNS_308,extortion,506,7,False,end_turn,7,True,False,False,False,True,True,True,True
+claude-haiku-4-5,rag+graph,F107,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F030,robbery,BNS_310,robbery,310,10 years,False,end_turn,10,True,True,True,False,False,True,False,
+claude-haiku-4-5,none,F036,extortion,BNS_308,extortion,303,3,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F135,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F069,forgery,BNS_336,forgery,226,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F016,robbery,BNS_309,robbery,309,14,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F112,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F095,rape,BNS_64,rape,375,life,True,end_turn,life,True,False,False,True,True,True,True,False
+claude-haiku-4-5,rag,F036,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F039,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F127,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F053,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F123,stalking,BNS_78,stalking,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F135,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F028,robbery,BNS_311,robbery,309,14,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F100,rape,BNS_70,rape,63,life,False,end_turn,life,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag,F048,cheating,BNS_318,cheating,322,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F121,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F135,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F055,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F110,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F024,robbery,BNS_312,robbery,312,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F082,murder,BNS_110,murder,110,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F116,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F077,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F025,robbery,BNS_310,robbery,309,10,False,end_turn,10,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag+graph,F066,forgery,BNS_336,forgery,336,2,False,end_turn,2,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F019,robbery,BNS_309,robbery,305,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F067,forgery,BNS_340,forgery,226,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F003,theft,BNS_305,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F070,forgery,BNS_341,forgery,341,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F018,robbery,BNS_311,robbery,309,14 years,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F079,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F098,rape,BNS_64,rape,89,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F002,theft,BNS_306,theft,303,3 years,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F125,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F109,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F032,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F115,sexual harassment,BNS_75,sexual harassment,354,3 years,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F047,cheating,BNS_318,cheating,318,life,False,end_turn,life,True,True,True,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F057,cheating,BNS_318,cheating,318,life,False,end_turn,life,True,True,True,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F099,rape,BNS_64,rape,63,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,none,F024,robbery,BNS_312,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F029,robbery,BNS_309,robbery,390,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,none,F133,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F047,cheating,BNS_318,cheating,318,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F019,robbery,BNS_309,robbery,309,10,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F010,theft,BNS_305,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F008,theft,BNS_306,theft,306,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F075,forgery,BNS_341,forgery,341,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F011,theft,BNS_304,theft,304,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F003,theft,BNS_305,theft,305,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F132,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F124,stalking,BNS_78,stalking,78,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F090,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F059,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F103,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F108,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F070,forgery,BNS_341,forgery,223,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F009,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F031,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F132,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F052,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F074,forgery,BNS_336,forgery,336,2,False,end_turn,2,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F105,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F053,cheating,BNS_318,cheating,319,5 years,False,end_turn,5,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F055,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F096,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F045,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F109,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F004,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F134,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F061,forgery,BNS_336,forgery,335,life,False,end_turn,life,True,True,False,False,False,False,True,True
+claude-haiku-4-5,none,F034,extortion,BNS_308,extortion,506,7,False,end_turn,7,True,False,False,False,True,True,True,True
+claude-haiku-4-5,rag+graph,F104,rape,BNS_65,rape,65,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag+graph,F017,robbery,BNS_309,robbery,309,14,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F122,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F032,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F064,forgery,BNS_341,forgery,341,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F071,forgery,BNS_336,forgery,335,7 years,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F043,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,none,F076,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F009,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F017,robbery,BNS_309,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F127,stalking,BNS_78,stalking,78,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F021,robbery,BNS_309,robbery,309,14 years,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F058,cheating,BNS_319,extortion,506,2,False,end_turn,2,False,False,False,False,True,False,True,True
+claude-haiku-4-5,none,F040,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag+graph,F014,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F048,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F029,robbery,BNS_309,theft,134,2,False,end_turn,2,False,False,False,False,False,False,True,True
+claude-haiku-4-5,none,F038,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,none,F071,forgery,BNS_336,forgery,219,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F031,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F111,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F075,forgery,BNS_341,forgery,230,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F073,forgery,BNS_336,forgery,335,7,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F072,forgery,BNS_340,forgery,340,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F110,sexual harassment,BNS_75,sexual harassment,79,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F112,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F097,rape,BNS_65,rape,65,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag,F044,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F091,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F101,rape,BNS_64,rape,375,life,True,end_turn,life,True,False,False,True,True,True,True,False
+claude-haiku-4-5,none,F097,rape,BNS_65,rape,375,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,none,F006,theft,BNS_305,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F086,murder,BNS_105,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag,F063,forgery,BNS_340,forgery,340,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F114,sexual harassment,BNS_75,sexual harassment,79,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F056,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F032,extortion,BNS_308,extortion,506,2,False,end_turn,2,True,False,False,False,True,True,True,True
+claude-haiku-4-5,rag+graph,F083,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F109,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F004,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F021,robbery,BNS_309,robbery,309,10,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F063,forgery,BNS_340,forgery,219,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F085,murder,BNS_103,murder,80,life,False,end_turn,life,True,False,False,False,False,True,True,False
+claude-haiku-4-5,none,F084,murder,BNS_105,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag,F034,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F002,theft,BNS_306,theft,303,3 years,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F133,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F018,robbery,BNS_311,robbery,309,14,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F070,forgery,BNS_341,forgery,341,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F033,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F111,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F100,rape,BNS_70,rape,376,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,none,F077,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F131,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F114,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F076,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F123,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F053,cheating,BNS_318,cheating,319,5 years,False,end_turn,5,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F128,stalking,BNS_78,stalking,78,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F090,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F062,forgery,BNS_336,forgery,226,2,False,end_turn,2,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F001,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F051,cheating,BNS_319,cheating,318,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F051,cheating,BNS_319,extortion,309,10,False,end_turn,10,False,False,False,False,False,False,True,True
+claude-haiku-4-5,rag,F042,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F072,forgery,BNS_340,forgery,340,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F011,theft,BNS_304,theft,304,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F015,theft,BNS_305,theft,305,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F061,forgery,BNS_336,forgery,226,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F071,forgery,BNS_336,forgery,335,7 years,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F089,murder,BNS_105,murder,101,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F026,robbery,BNS_309,robbery,309,14,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F095,rape,BNS_64,rape,64,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F107,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F083,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F073,forgery,BNS_336,forgery,223,7,False,end_turn,7,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F074,forgery,BNS_336,forgery,336,2,False,end_turn,2,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F085,murder,BNS_103,murder,80,life,False,end_turn,life,True,False,False,False,False,True,True,False
+claude-haiku-4-5,none,F044,extortion,BNS_308,extortion,506,7,False,end_turn,7,True,False,False,False,True,True,True,True
+claude-haiku-4-5,none,F050,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F031,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag+graph,F078,murder,BNS_103,murder,101,life,False,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,none,F131,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F054,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F081,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F084,murder,BNS_105,murder,100,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag+graph,F080,murder,BNS_105,murder,102,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F042,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F035,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag+graph,F126,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F057,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F106,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F005,theft,BNS_306,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F129,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F104,rape,BNS_65,rape,65,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag+graph,F100,rape,BNS_70,rape,63,life,False,end_turn,life,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag,F102,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F021,robbery,BNS_309,robbery,303,10,False,end_turn,10,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F010,theft,BNS_305,theft,305,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F056,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F102,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag+graph,F118,sexual harassment,BNS_75,sexual harassment,79,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F049,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F116,sexual harassment,BNS_75,sexual harassment,75,1,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F108,sexual harassment,BNS_75,sexual harassment,77,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F052,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F112,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,none,F066,forgery,BNS_336,forgery,226,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F041,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F012,theft,BNS_303,theft,303,7,False,end_turn,7,True,True,True,False,False,False,True,True
+claude-haiku-4-5,rag,F084,murder,BNS_105,murder,100,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag,F065,forgery,BNS_336,forgery,335,7 years,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F115,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F001,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F097,rape,BNS_65,rape,65,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag,F080,murder,BNS_105,murder,102,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F117,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag,F079,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F040,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F037,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F027,robbery,BNS_309,robbery,309,10,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F134,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F020,robbery,BNS_310,robbery,309,10 years,False,end_turn,10,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag,F066,forgery,BNS_336,forgery,336,2,False,end_turn,2,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F006,theft,BNS_305,theft,305,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F004,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F026,robbery,BNS_309,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F068,forgery,BNS_336,forgery,336,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F129,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F037,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F067,forgery,BNS_340,forgery,335,7,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F113,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F059,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F125,stalking,BNS_78,stalking,353,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F038,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F062,forgery,BNS_336,forgery,335,7,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F028,robbery,BNS_311,robbery,309,14,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F075,forgery,BNS_341,forgery,341,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F089,murder,BNS_105,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,none,F041,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag,F029,robbery,BNS_309,robbery,134,2,False,end_turn,2,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F115,sexual harassment,BNS_75,sexual harassment,75,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F094,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F092,rape,BNS_65,rape,63,life,False,end_turn,life,True,True,False,False,False,True,False,
+claude-haiku-4-5,rag+graph,F058,cheating,BNS_319,cheating,204,3,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag,F060,cheating,BNS_318,forgery,335,7,False,end_turn,7,False,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F064,forgery,BNS_341,forgery,341,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F134,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F089,murder,BNS_105,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,False
+claude-haiku-4-5,rag,F012,theft,BNS_303,theft,370,7 years,False,end_turn,7,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag,F040,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F022,robbery,BNS_311,robbery,309,14,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F005,theft,BNS_306,theft,306,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F055,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F054,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F088,murder,BNS_110,murder,110,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F128,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F129,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F013,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F124,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F015,theft,BNS_305,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F039,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F056,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F002,theft,BNS_306,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F035,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F043,extortion,BNS_308,extortion,309,10 years,False,end_turn,10,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F113,sexual harassment,BNS_75,sexual harassment,75,1 year,False,end_turn,1,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F101,rape,BNS_64,rape,89,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F126,stalking,BNS_78,stalking,78,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F023,robbery,BNS_309,robbery,309,10,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F083,murder,BNS_103,murder,103,life,True,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F080,murder,BNS_105,murder,101,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F030,robbery,BNS_310,robbery,390,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,none,F023,robbery,BNS_309,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F117,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag+graph,F094,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F016,robbery,BNS_309,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F098,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,none,F022,robbery,BNS_311,robbery,390,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag+graph,F045,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F088,murder,BNS_110,murder,104,life,True,end_turn,life,True,False,False,False,False,False,True,False
+claude-haiku-4-5,none,F033,extortion,BNS_308,extortion,303,3,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag,F130,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F103,rape,BNS_64,rape,375,life,True,end_turn,life,True,False,False,True,True,True,True,False
+claude-haiku-4-5,rag+graph,F027,robbery,BNS_309,robbery,309,10 years,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F091,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F050,cheating,BNS_318,cheating,318,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F123,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F093,rape,BNS_70,rape,375,life,True,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,rag+graph,F036,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F060,cheating,BNS_318,cheating,318,1,False,end_turn,1,True,True,True,False,False,False,True,True
+claude-haiku-4-5,rag+graph,F093,rape,BNS_70,rape,70,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag+graph,F034,extortion,BNS_308,extortion,308,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F059,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F007,theft,BNS_303,theft,303,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F093,rape,BNS_70,rape,70,life,False,end_turn,life,True,True,True,False,False,True,False,
+claude-haiku-4-5,rag,F016,robbery,BNS_309,robbery,309,14,False,end_turn,14,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F079,murder,BNS_103,murder,100,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F119,sexual harassment,BNS_75,sexual harassment,79,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F119,sexual harassment,BNS_75,sexual harassment,79,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F091,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,rag,F132,stalking,BNS_78,stalking,78,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F125,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F020,robbery,BNS_310,robbery,304,life,False,end_turn,life,True,False,False,False,False,True,False,
+claude-haiku-4-5,rag+graph,F048,cheating,BNS_318,cheating,318,life,False,end_turn,life,True,True,True,False,False,False,True,True
+claude-haiku-4-5,none,F119,sexual harassment,BNS_75,sexual harassment,3,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F081,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F005,theft,BNS_306,theft,306,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F039,extortion,BNS_308,extortion,506,3,False,end_turn,3,True,False,False,False,True,False,True,True
+claude-haiku-4-5,rag,F061,forgery,BNS_336,forgery,335,life,False,end_turn,life,True,True,False,False,False,False,True,True
+claude-haiku-4-5,none,F128,stalking,BNS_78,stalking,351,3,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F065,forgery,BNS_336,forgery,335,life,False,end_turn,life,True,True,False,False,False,False,True,True
+claude-haiku-4-5,rag,F049,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F044,extortion,BNS_308,extortion,308,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F024,robbery,BNS_312,robbery,312,life,False,end_turn,life,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F105,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F017,robbery,BNS_309,robbery,309,10 years,False,end_turn,10,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F103,rape,BNS_64,rape,63,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F088,murder,BNS_110,murder,110,7 years,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F011,theft,BNS_304,theft,303,3,False,end_turn,3,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F078,murder,BNS_103,murder,101,life,True,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F064,forgery,BNS_341,forgery,223,2,False,end_turn,2,True,False,False,False,False,False,True,True
+claude-haiku-4-5,none,F046,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F058,cheating,BNS_319,cheating,204,3 years,False,end_turn,3,True,False,False,False,False,False,True,True
+claude-haiku-4-5,rag,F057,cheating,BNS_318,cheating,318,5,False,end_turn,5,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F122,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F022,robbery,BNS_311,robbery,309,14,False,end_turn,14,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F082,murder,BNS_110,murder,110,7,False,end_turn,7,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag+graph,F007,theft,BNS_303,theft,303,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F043,extortion,BNS_308,extortion,309,10 years,False,end_turn,10,True,False,False,False,False,True,True,True
+claude-haiku-4-5,none,F092,rape,BNS_65,rape,375,life,False,end_turn,life,True,False,False,True,True,True,False,
+claude-haiku-4-5,rag+graph,F067,forgery,BNS_340,forgery,335,7,False,end_turn,7,True,True,False,False,False,True,True,True
+claude-haiku-4-5,none,F113,sexual harassment,BNS_75,sexual harassment,354,3,False,end_turn,3,True,False,False,True,False,True,True,True
+claude-haiku-4-5,rag+graph,F069,forgery,BNS_336,forgery,338,life,False,end_turn,life,True,True,False,False,False,True,True,True
+claude-haiku-4-5,rag,F025,robbery,BNS_310,robbery,309,10,False,end_turn,10,True,True,False,False,False,True,False,
+claude-haiku-4-5,none,F047,cheating,BNS_318,cheating,318,3,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,rag,F118,sexual harassment,BNS_75,sexual harassment,79,3 years,False,end_turn,3,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F124,stalking,BNS_78,stalking,78,3 years,False,end_turn,3,True,True,True,False,False,True,True,True
+claude-haiku-4-5,none,F094,rape,BNS_64,rape,375,life,False,end_turn,life,True,False,False,True,True,True,True,True
+claude-haiku-4-5,none,F018,robbery,BNS_311,robbery,303,life,False,end_turn,life,True,False,False,False,False,True,True,True
+claude-haiku-4-5,rag,F133,stalking,BNS_78,stalking,78,3,False,end_turn,3,True,True,True,False,False,True,True,True

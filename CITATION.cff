@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, graph or code, please cite it as below."
+title: "bns-statute-grounding: BNS-Facts-135, a statute-grounded knowledge graph of the Bharatiya Nyaya Sanhita, and code for leakage-free evaluation of legal provision citation"
+version: "1.0"
+date-released: 2026-10-22
+license: MIT
+repository-code: "https://github.com/hitesh712/bns-statute-grounding"
+authors:
+  - family-names: Kag
+    given-names: Hitesh
+    email: hitesh07kag@gmail.com
+    affiliation: "Marwadi University, Rajkot, India"
+  - family-names: Puthanveettil
+    given-names: Saurabh Kodompatta
+    affiliation: "Marwadi University, Rajkot, India"
+  - family-names: Ryagnirvesh
+    given-names: Kammari
+    affiliation: "Marwadi University, Rajkot, India"
+  - family-names: Panchal
+    given-names: Sandeep
+    affiliation: "Marwadi University, Rajkot, India"
+keywords:
+  - legal information retrieval
+  - retrieval-augmented generation
+  - knowledge graphs
+  - benchmark leakage
+  - Bharatiya Nyaya Sanhita

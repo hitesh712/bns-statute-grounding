@@ -1,0 +1,15 @@
+benchmark,system,k,n,correct,accuracy,strict_top1
+ORIGINAL (evaluation_queries_v2),trivial (no graph),-,110,103,93.64,93.64
+ORIGINAL (evaluation_queries_v2),FAISS + graph,1,110,74,67.27,62.73
+ORIGINAL (evaluation_queries_v2),FAISS + graph,2,110,83,75.45,69.09
+ORIGINAL (evaluation_queries_v2),FAISS + graph,3,110,90,81.82,75.45
+ORIGINAL (evaluation_queries_v2),FAISS + graph,5,110,95,86.36,79.09
+ORIGINAL (evaluation_queries_v2),FAISS + graph,10,110,98,89.09,80.0
+ORIGINAL (evaluation_queries_v2),FAISS + graph,20,110,100,90.91,80.0
+NEW: BNS-Facts-135,trivial (no graph),-,135,82,60.74,60.74
+NEW: BNS-Facts-135,FAISS + graph,1,135,29,21.48,20.74
+NEW: BNS-Facts-135,FAISS + graph,2,135,43,31.85,31.11
+NEW: BNS-Facts-135,FAISS + graph,3,135,48,35.56,34.81
+NEW: BNS-Facts-135,FAISS + graph,5,135,59,43.7,41.48
+NEW: BNS-Facts-135,FAISS + graph,10,135,76,56.3,50.37
+NEW: BNS-Facts-135,FAISS + graph,20,135,94,69.63,58.52

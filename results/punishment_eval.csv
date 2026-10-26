@@ -1,0 +1,9 @@
+k,system,precision,recall,f1,exact_set_match,empty_answers
+1,direct (no graph),72.36,52.06,57.88,27.41,27
+1,graph (DEFINES -> PUNISHED_BY),62.25,62.84,62.45,59.26,47
+3,direct (no graph),70.37,65.92,63.71,11.85,9
+3,graph (DEFINES -> PUNISHED_BY),69.36,79.07,72.87,51.11,25
+5,direct (no graph),68.03,76.41,67.57,7.41,2
+5,graph (DEFINES -> PUNISHED_BY),71.5,88.75,77.39,46.67,12
+10,direct (no graph),59.37,88.39,67.97,2.96,0
+10,graph (DEFINES -> PUNISHED_BY),65.2,94.85,75.0,24.44,4

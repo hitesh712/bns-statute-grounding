@@ -1,0 +1,19 @@
+encoder,system,k,accuracy,p_vs_trivial,trivial_only,graph_only
+MiniLM-L6,trivial (no graph),,60.74,,,
+MiniLM-L6,FAISS + graph,1,37.04,1.4e-05,43.0,11.0
+MiniLM-L6,FAISS + graph,3,52.59,0.135,28.0,17.0
+MiniLM-L6,FAISS + graph,5,61.48,1,21.0,22.0
+MiniLM-L6,FAISS + graph,10,77.04,0.000472,8.0,30.0
+MiniLM-L6,FAISS + graph,20,84.44,6.68e-08,3.0,35.0
+mpnet-base,trivial (no graph),,66.67,,,
+mpnet-base,FAISS + graph,1,40.0,4.82e-06,49.0,13.0
+mpnet-base,FAISS + graph,3,62.22,0.471,27.0,21.0
+mpnet-base,FAISS + graph,5,75.56,0.0884,15.0,27.0
+mpnet-base,FAISS + graph,10,88.89,2.83e-06,6.0,36.0
+mpnet-base,FAISS + graph,20,97.04,1e-11,1.0,42.0
+BGE-base,trivial (no graph),,73.33,,,
+BGE-base,FAISS + graph,1,59.26,0.00338,29.0,10.0
+BGE-base,FAISS + graph,3,74.81,0.851,13.0,15.0
+BGE-base,FAISS + graph,5,83.7,0.00936,6.0,20.0
+BGE-base,FAISS + graph,10,88.89,0.000192,5.0,26.0
+BGE-base,FAISS + graph,20,95.56,6.94e-08,2.0,32.0

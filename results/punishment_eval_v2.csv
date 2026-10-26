@@ -1,0 +1,9 @@
+k,system,precision,recall,f1,exact_set_match
+1,direct (no graph),71.11,50.72,56.89,28.15
+1,graph (DEFINES -> PUNISHED_BY),63.61,64.15,63.76,60.74
+3,direct (no graph),64.86,55.72,57.28,9.63
+3,graph (DEFINES -> PUNISHED_BY),67.22,76.8,70.55,52.59
+5,direct (no graph),63.57,63.72,60.59,2.22
+5,graph (DEFINES -> PUNISHED_BY),67.46,82.87,72.62,47.41
+10,direct (no graph),56.06,75.46,62.08,4.44
+10,graph (DEFINES -> PUNISHED_BY),60.27,85.22,68.55,25.19

@@ -1,0 +1,9 @@
+system,accuracy,llm_accuracy,llm_only,system_only,p
+BGE-base|trivial,73.33,97.78,33,0,2.3283064365386963e-10
+BGE-base|graph_k5,83.7,97.78,21,2,6.604194641113281e-05
+BGE-base|graph_k10,88.89,97.78,14,2,0.004180908203125
+BGE-base|graph_k20,95.56,97.78,6,3,0.5078125
+mpnet-base|graph_k20,97.04,97.78,4,3,1.0
+hybrid|graph_k5,83.7,97.78,19,0,3.814697265625e-06
+hybrid|graph_k10,92.59,97.78,8,1,0.0390625
+hybrid|graph_k20,99.26,97.78,1,3,0.625

@@ -1,0 +1,9 @@
+model,condition,overall,when_retrieved_correct,when_retrieval_missed,errors_from_retrieval_miss,errors_despite_correct_evidence
+claude-haiku-4-5,rag,88.1,98.3,30.0,14,2
+claude-haiku-4-5,rag+graph,90.4,100.0,35.0,13,0
+llama3.1:8b,rag,81.5,95.7,0.0,20,5
+llama3.1:8b,rag+graph,80.0,93.9,0.0,20,7
+llama3.2:3b,rag,80.0,93.9,0.0,20,7
+llama3.2:3b,rag+graph,76.3,89.6,0.0,20,12
+qwen2.5:7b,rag,79.3,93.0,0.0,20,8
+qwen2.5:7b,rag+graph,79.3,93.0,0.0,20,8

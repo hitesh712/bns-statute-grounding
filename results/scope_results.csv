@@ -1,0 +1,13 @@
+scope,k,correct,n,accuracy
+full corpus (1511),1,38,135,28.15
+full corpus (1511),2,50,135,37.04
+full corpus (1511),3,54,135,40.0
+full corpus (1511),5,62,135,45.93
+full corpus (1511),10,79,135,58.52
+full corpus (1511),20,101,135,74.81
+BNS only (351),1,50,135,37.04
+BNS only (351),2,62,135,45.93
+BNS only (351),3,71,135,52.59
+BNS only (351),5,83,135,61.48
+BNS only (351),10,104,135,77.04
+BNS only (351),20,114,135,84.44

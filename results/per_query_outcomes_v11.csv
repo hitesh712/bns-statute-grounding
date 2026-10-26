@@ -1,0 +1,136 @@
+query_id,gold,MiniLM-L6|trivial,MiniLM-L6|graph_k1,MiniLM-L6|graph_k3,MiniLM-L6|graph_k5,MiniLM-L6|graph_k10,MiniLM-L6|graph_k20,mpnet-base|trivial,mpnet-base|graph_k1,mpnet-base|graph_k3,mpnet-base|graph_k5,mpnet-base|graph_k10,mpnet-base|graph_k20,BGE-base|trivial,BGE-base|graph_k1,BGE-base|graph_k3,BGE-base|graph_k5,BGE-base|graph_k10,BGE-base|graph_k20,BM25|graph_k1,BM25|graph_k3,BM25|graph_k5,BM25|graph_k10,BM25|graph_k20,hybrid RRF|graph_k1,hybrid RRF|graph_k3,hybrid RRF|graph_k5,hybrid RRF|graph_k10,hybrid RRF|graph_k20
+F001,theft,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,True,True
+F002,theft,True,True,True,True,True,True,True,False,False,True,True,True,True,False,True,True,True,True,False,False,False,True,True,False,True,True,True,True
+F003,theft,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F004,theft,True,True,True,True,True,True,True,False,True,True,True,True,False,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True
+F005,theft,True,False,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F006,theft,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True
+F007,theft,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F008,theft,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F009,theft,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F010,theft,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F011,theft,False,False,False,False,False,True,True,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F012,theft,False,False,False,True,True,True,False,False,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F013,theft,False,False,True,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,False,False,True,True,True,False,True,True,True,True
+F014,theft,False,False,False,False,False,True,True,False,False,False,True,True,True,False,True,True,True,True,False,False,True,True,True,True,True,True,True,True
+F015,theft,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F016,robbery,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F017,robbery,True,False,False,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F018,robbery,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,True,True
+F019,robbery,False,False,False,True,True,True,False,False,False,True,True,True,False,False,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F020,robbery,True,False,False,False,False,True,False,False,False,True,True,True,True,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True
+F021,robbery,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F022,robbery,True,False,False,False,True,True,True,False,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F023,robbery,False,False,True,True,True,True,False,False,False,False,False,True,False,False,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F024,robbery,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,True,False,True,True,True,True
+F025,robbery,True,False,False,False,False,True,False,False,False,True,True,True,True,False,False,True,True,True,False,False,False,True,True,False,True,True,True,True
+F026,robbery,True,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,False,False,False,True,True,False,True,True,True,True
+F027,robbery,False,False,False,False,True,True,False,False,False,False,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F028,robbery,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,False,True,True,True,True
+F029,robbery,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True
+F030,robbery,False,False,False,False,True,True,False,True,True,True,True,True,True,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True
+F031,extortion,True,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F032,extortion,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F033,extortion,False,False,True,True,True,True,False,False,True,True,True,True,True,False,True,True,True,True,False,False,True,True,True,True,True,True,True,True
+F034,extortion,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F035,extortion,True,False,False,False,False,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,True,True
+F036,extortion,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F037,extortion,False,False,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F038,extortion,True,False,False,False,False,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F039,extortion,False,False,False,False,True,True,False,True,True,True,True,True,False,False,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F040,extortion,False,False,False,False,False,False,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,True
+F041,extortion,False,False,False,False,False,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,True,True,True,True
+F042,extortion,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,False,True,True,True,True
+F043,extortion,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True
+F044,extortion,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F045,extortion,False,False,False,False,False,True,False,False,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F046,cheating,False,False,False,False,False,False,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F047,cheating,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,True,True,True
+F048,cheating,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+F049,cheating,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False,False,True,False,True,True,True,True,False,True,True,True,True
+F050,cheating,False,False,False,False,False,False,False,False,True,True,True,True,False,False,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F051,cheating,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True
+F052,cheating,False,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F053,cheating,False,False,False,False,True,True,False,True,True,True,True,True,False,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F054,cheating,False,False,False,False,False,False,False,False,True,True,True,True,False,False,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F055,cheating,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+F056,cheating,False,False,False,False,True,True,False,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F057,cheating,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,True,True,True,True
+F058,cheating,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True
+F059,cheating,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True
+F060,cheating,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,False,True,True,True
+F061,forgery,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F062,forgery,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F063,forgery,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F064,forgery,True,False,True,True,True,True,True,False,False,False,True,True,True,False,True,True,True,True,False,False,True,True,True,False,True,True,True,True
+F065,forgery,True,False,False,True,True,True,True,False,True,True,True,True,False,False,True,True,True,True,False,True,True,True,True,False,False,True,True,True
+F066,forgery,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F067,forgery,True,False,False,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,False,False,False,True,True,False,True,True,True,True
+F068,forgery,True,False,False,False,True,True,True,False,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+F069,forgery,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True
+F070,forgery,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F071,forgery,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F072,forgery,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F073,forgery,True,False,False,True,True,True,True,False,False,True,True,True,False,False,False,True,True,True,False,True,True,True,True,False,True,True,True,True
+F074,forgery,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F075,forgery,True,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F076,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,False,False,False,True,False,False,False,True,True
+F077,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,True,True
+F078,murder,True,True,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F079,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F080,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F081,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F082,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True
+F083,murder,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F084,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F085,murder,True,False,True,True,True,True,True,False,False,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True
+F086,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F087,murder,True,False,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F088,murder,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F089,murder,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F090,murder,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F091,rape,False,False,False,True,True,True,False,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F092,rape,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,False,True,True,True,True
+F093,rape,False,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F094,rape,False,False,False,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F095,rape,True,False,False,False,True,True,True,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True
+F096,rape,True,False,False,False,True,True,True,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F097,rape,True,False,True,True,True,True,True,False,False,True,True,True,True,False,False,True,True,True,False,True,True,True,True,False,True,True,True,True
+F098,rape,False,False,True,True,True,True,True,False,False,True,True,True,True,False,False,False,False,True,True,True,True,True,True,False,False,True,True,True
+F099,rape,False,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F100,rape,False,True,True,True,True,True,True,False,False,True,True,True,True,False,True,True,True,True,False,True,True,True,True,False,True,True,True,True
+F101,rape,False,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False,True,True,True,True,True,True,False,False,True,True,True
+F102,rape,False,True,True,True,True,True,True,False,False,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F103,rape,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False,True,True,True,True,True,True,True,True,False,True,True,True,True
+F104,rape,True,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,False,False,True,True,True
+F105,rape,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F106,sexual harassment,True,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F107,sexual harassment,True,False,False,False,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F108,sexual harassment,True,False,True,True,True,True,True,False,False,True,True,True,True,False,False,False,False,True,False,False,False,False,True,False,False,False,True,True
+F109,sexual harassment,True,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F110,sexual harassment,True,False,False,False,True,True,True,False,False,True,True,True,True,False,False,False,False,False,True,True,True,True,True,False,False,True,True,True
+F111,sexual harassment,True,False,False,False,True,True,True,False,False,False,False,True,True,False,True,True,True,True,True,True,True,True,True,False,True,True,True,True
+F112,sexual harassment,True,False,False,False,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F113,sexual harassment,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False,True,True,True,False,False,False,False,True,False,True,True,True,True
+F114,sexual harassment,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True
+F115,sexual harassment,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F116,sexual harassment,True,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F117,sexual harassment,True,False,False,True,True,True,True,False,True,True,True,True,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True
+F118,sexual harassment,True,False,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,True,True,True
+F119,sexual harassment,True,False,False,False,False,False,True,False,False,False,True,True,True,False,False,False,False,False,True,True,True,True,True,False,True,True,True,True
+F120,sexual harassment,True,False,False,False,True,True,True,False,False,False,False,True,True,False,True,True,True,True,False,False,False,False,False,False,False,False,True,True
+F121,stalking,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True
+F122,stalking,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F123,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F124,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,True
+F125,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,False,False,False,True,True,False,True,True,True,True
+F126,stalking,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F127,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True
+F128,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F129,stalking,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F130,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F131,stalking,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True
+F132,stalking,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F133,stalking,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,True
+F134,stalking,False,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+F135,stalking,True,False,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,False,False,False,True,True,False,False,True,True,True
