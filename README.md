@@ -49,7 +49,7 @@ original_data/   inputs from the authors' earlier GraphRAG-Law system: statute
 | `difficulty` | `plain` (90) or `boundary` (45, close to a neighbouring offence) |
 | `grounding_section` | the BNS section whose conduct the item describes |
 
-The authors drafted the items from the statutory text and audited them against it. They are research data, not legal advice.
+The items are synthetic. Claude Opus 5 drafted them from the statutory text, and Claude Opus 5.5 corrected and audited them against it for v1.1. No independent legal reader has reviewed them yet (the `reviewed_by` column is blank). Claude models are also among the systems evaluated, so the benchmark may suit them; see the paper's Limitations section. The items are research data, not legal advice.
 
 ## Knowledge graph
 
